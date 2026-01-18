@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="banner_clutchfire.png" alt="Clutchfire Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/clutchfireOrg/.github/main/profile/banner_clutchfire.png" alt="Clutchfire Banner" width="100%">
 
   <br>
 
@@ -37,5 +37,5 @@ If you find our open-source projects useful, consider supporting our research an
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20Clutchfire-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40">
   </a>
   <br>
-  <em>"Forget Gearboxes. Embrace Innovation."</em>
+  <em>"Redefining Performance. Embrace Innovation."</em>
 </div>
