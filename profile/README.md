@@ -1,9 +1,5 @@
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/clutchfireOrg/.github/main/profile/banner_clutchfire.png" alt="Clutchfire Banner" width="100%">
-
-  <br>
-
   # Hi there, we are Clutchfire 👋
   
   **Redefining Airsoft engineering through high-performance hardware.**
