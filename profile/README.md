@@ -4,7 +4,7 @@
   
   **Redefining Airsoft engineering through high-performance hardware.**
 
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/clutchfire)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/clutchfireworks)
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qV8xHUUq)
   [![Linkhub](https://img.shields.io/badge/Linkhub-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://bio.clutchfire.works/)
 
